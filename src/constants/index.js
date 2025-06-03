@@ -161,7 +161,7 @@ export const projects = [
     name: "3d portfolio",
     description:
     "Developed a 3D portfolio using React and Three.js with an animated fox for a standout visual experience. Designed an interactive timeline to showcase skills and ensured full responsiveness across devices. Integrated a real-time contact form using EmailJS for smooth and direct user communication.",
-    link: "https://gowthammayakannan.github.io/3d_portfolio-/",
+    link: "https://gowthammayakannan.github.io/3d_portfolio/",
   },
   {
     iconUrl: burgerwebsite ,
