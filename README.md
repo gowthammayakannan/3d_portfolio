@@ -1,8 +1,26 @@
-# React + Vite
+🦊 3D Fox Portfolio
+Welcome to my interactive 3D Developer Portfolio — powered by React, Three.js, and Vite, and starring a fully animated 3D fox 🦊.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project showcases my web development skills with a modern tech stack, animations, responsive layout, and smooth transitions.
 
-Currently, two official plugins are available:
+🌐 Live Demo
+👉 Click here to view the live site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📸 Preview
+screenshot
+
+✨ Features
+🦊 Animated 3D fox model (GLB format)
+🌈 Beautiful gradients and soft UI animations
+📱 Fully responsive (desktop, tablet, mobile)
+✉️ Contact form integrated with EmailJS
+💡 Smooth transitions using Framer Motion
+⚡ Fast builds and hot reload with Vite
+🛠️ Built With
+Tech	Description
+⚛️ React	UI Framework
+🎮 Three.js / R3F	3D rendering (React Three Fiber)
+💨 Tailwind CSS	Utility-first CSS framework
+📦 Vite	Lightning-fast build tool
+✉️ EmailJS	Contact form email service
+📁 Project Structure
