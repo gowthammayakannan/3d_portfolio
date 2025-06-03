@@ -161,7 +161,7 @@ export const projects = [
     name: "3d portfolio",
     description:
     "Developed a 3D portfolio using React and Three.js with an animated fox for a standout visual experience. Designed an interactive timeline to showcase skills and ensured full responsiveness across devices. Integrated a real-time contact form using EmailJS for smooth and direct user communication.",
-    link: "",
+    link: "https://gowthammayakannan.github.io/3d_portfolio-/",
   },
   {
     iconUrl: burgerwebsite ,
@@ -169,7 +169,7 @@ export const projects = [
     name: "Burger Website",
     description:
     "Developed an interactive burger builder with live ingredient customization and visual feedback.Managed state efficiently using arrays and DOM manipulation for responsive updates. Applied functional programming to handle pricing, logic, and inventory management. Wrote clean, modular code using modern ES6+ features for better readability and structure.",
-    link: "",
+    link: "https://github.com/gowthammayakannan/Burger-website",
   },
   {
     iconUrl: blogapplication,
