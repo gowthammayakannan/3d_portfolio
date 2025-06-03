@@ -1,7 +1,7 @@
 {
   "name": "vite-project",
   "private": true,
-  "homepage": "https://gowthammayakannan.github.io/3d_portfolio-",
+  "homepage": "https://gowthammayakannan.github.io/3d_portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
