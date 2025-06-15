@@ -7,7 +7,7 @@ Welcome to my interactive 3D Developer Portfolio — a visually rich and technic
 ---
 
 ## 🌐 Live Demo  
-👉 [Click here to view the live site](#)
+👉 https://gowthammayakannan.github.io/3d_portfolio/
 
 ---
 
